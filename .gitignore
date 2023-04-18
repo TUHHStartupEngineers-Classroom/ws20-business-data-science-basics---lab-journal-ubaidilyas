@@ -1,7 +1,7 @@
 # History files
 .Rhistory
 .Rapp.history
-
+.tsv
 # Session Data files
 .RData
 
@@ -36,3 +36,4 @@ vignettes/*.pdf
 *.knit.md
 
 # R Environment Variables
+.Renviron
